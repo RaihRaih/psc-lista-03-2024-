@@ -1,4 +1,4 @@
-# PSC---lista-02---Pratica-
+# PSC---lista-03---Pratica-
 > Nome: Raissa Rodrigues 
 
 >Turma: Sistemas de Informação (Primeiro Período)
