@@ -39,7 +39,8 @@ public class EquacaoSegundoGrau {
             double raiz2 = (-b - Math.sqrt(delta)) / (2 * a);
             System.out.println("Valores das raízes: " + raiz1 + " e " + raiz2);
         }
-
+        equação = Math.pow(a, 2) + b + c;
+        System.out.println("\nResultado da Equação: " + equação);
         scanner.close();
     }
 }
