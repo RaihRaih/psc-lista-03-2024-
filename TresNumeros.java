@@ -1,5 +1,5 @@
 /*Raissa Rodrigues - Sistemas de Informação
-* 1. . Escreva um algoritmo que leia 3 números a partir do teclado.
+* 1. Escreva um algoritmo que leia 3 números a partir do teclado.
 O algoritmo deve apresentar:
  */
 import java.util.Scanner;
