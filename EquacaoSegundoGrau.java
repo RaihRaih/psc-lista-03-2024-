@@ -2,7 +2,6 @@
  * 3. Escreva um algoritmo que resolva uma equação de segundo grau, realizando a verificação de consistência dos valores 
  * dos coeficientes ("a", "b" e "c") e do discriminante (delta).Equação do segundo grau: ax² + bx + c = 0 Discriminante: 
  * delta = b² - 4ac */
-
 import java.util.Scanner;
 
 public class EquacaoSegundoGrau {
