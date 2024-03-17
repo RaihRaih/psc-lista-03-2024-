@@ -1,5 +1,5 @@
 /*Raissa Rodrigues - Sistemas de Informação
-* 1. . Escreva o algoritmo de uma máquina de venda automática de salgadinhos, doces, sucos e refrigerantes. O algoritmo deve calcular o menor número 
+* 2. Escreva o algoritmo de uma máquina de venda automática de salgadinhos, doces, sucos e refrigerantes. O algoritmo deve calcular o menor número 
 de notas que deve ser dado de troco para um pagamento efetuado. O algoritmo deve ler o valor da compra e o valor pago. Se o valor pago for menor que
 o valor da compra, a máquina deve apresentar uma mensagem, informando que a quantia paga é insuficiente para realizar a compra. A máquina aceita apenas 
 notas de: R$ 50,00, R$ 20,00, R$ 10,00, R$ 5,00, R$ 2,00 e R$ 1,00.*/ 
