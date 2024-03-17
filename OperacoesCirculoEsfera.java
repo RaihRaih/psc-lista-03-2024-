@@ -1,5 +1,5 @@
   /*Raissa Rodrigues - Sistemas de Informação
- * 4.. Escreva um algoritmo que leia dois valores: o primeiro servindo de indicador de
+ * 4. Escreva um algoritmo que leia dois valores: o primeiro servindo de indicador de
 operação e o segundo correspondendo ao raio de um círculo ou esfera. */
 import java.util.Scanner;
 
